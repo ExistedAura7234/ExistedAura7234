@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ExistedAura7234
 - 👀 I’m interested in make cool proyects
-- 🌱 I’m currently learning C# % Unity
+- 🌱 I’m currently learning C# & Unity
 - 💞️ I’m looking to collaborate on Video Games
 - 📫 How to reach me existedaura7234@gmail.com
 - 😄 Pronouns: I don´t know whats the meaning about
